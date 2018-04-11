@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCode", "MyCode\MyCode.csproj", "{C306E0C1-5DAC-44E8-862E-20D775875767}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{1EF2150C-D2C3-457E-8626-E3CC31E0B5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C306E0C1-5DAC-44E8-862E-20D775875767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C306E0C1-5DAC-44E8-862E-20D775875767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C306E0C1-5DAC-44E8-862E-20D775875767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C306E0C1-5DAC-44E8-862E-20D775875767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF2150C-D2C3-457E-8626-E3CC31E0B5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF2150C-D2C3-457E-8626-E3CC31E0B5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF2150C-D2C3-457E-8626-E3CC31E0B5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF2150C-D2C3-457E-8626-E3CC31E0B5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
